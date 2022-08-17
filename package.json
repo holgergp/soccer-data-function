@@ -1,0 +1,25 @@
+{
+  "name": "soccer-data-function",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/holgergp/soccer-data-function.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/holgergp/soccer-data-function/issues"
+  },
+  "homepage": "https://github.com/holgergp/soccer-data-function#readme",
+  "dependencies": {
+    "@netlify/functions": "^1.2.0"
+  },
+  "devDependencies": {
+    "prettier": "2.7.1"
+  }
+}
